@@ -13,6 +13,7 @@ Listado de series para recomendar:
 - Fargo
 - Los soprano
 - Aztraceneca
+- Good omens
 - The Godfather
 - Superman
 - Suits
