@@ -5,4 +5,3 @@ Esto es una lista
   * Uno
   * Dos
   * Tres
-  * Cuatro
