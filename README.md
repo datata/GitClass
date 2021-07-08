@@ -19,9 +19,7 @@ Listado de series para recomendar:
 - Superman
 - Fleabag
 - Prison break
-<<<<<<< HEAD
 - Suits
-=======
 - Los hombres de paco
 - otra
->>>>>>> f16f6dcd769698f77b46942cf37747716ac675e8
+- Gambito de dama.
