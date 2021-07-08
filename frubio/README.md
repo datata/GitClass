@@ -7,3 +7,6 @@ Esto es una lista
   * Tres
   * Cuatro
   * Cinco
+  * Seis
+  * Siete
+
